@@ -1,0 +1,74 @@
+#input-el{
+    width:95%;
+    height:35px;
+    border-width: 0.75px;
+    border-color: green;
+    box-sizing: border-box;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#input-el:hover{
+    background-color: rgb(235, 235, 235);
+}
+#input-btn{
+    position: absolute;
+    top:50px;
+    left:9px;
+    background: green;
+    color:white;
+    border:none;
+    font-weight: bold;
+    width:120px;
+    height:40px; 
+    box-sizing: border-box;
+}
+#input-btn:hover{
+    cursor:pointer;
+}
+#delete-btn{
+    position: absolute;
+    top:50px;
+    left:138px;
+    background: white;
+    color:green;
+    font-weight: bold;
+    width:120px;
+    height:40px; 
+    border-color: green;
+    box-sizing: border-box;
+}
+#save-curr{
+    position: absolute;
+    top:50px;
+    left:270px;
+    background: green;
+    color:white;
+    border:none;
+    font-weight: bold;
+    width:120px;
+    height:40px; 
+    box-sizing: border-box;
+}
+#save-curr:hover{
+    cursor:pointer;
+}
+#content{
+    position:absolute;
+    top:65px;
+}
+a{
+    color:green;
+}
+ul {
+    list-style: none;
+    margin-top:30px;
+    padding-left: 0;
+  }
+li a{
+    margin-top:5px;
+}
+
+body{
+    min-width: 400px;
+    min-height:200px;
+}

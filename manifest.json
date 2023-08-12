@@ -1,0 +1,10 @@
+{
+    "manifest_version":3,
+    "version":"1.1",
+    "name":"Leads Tracker",
+    "action":{
+        "default_popup":"Ext.html",
+        "default_icon":"icon-concept-of-dollar-symbol-on-green-background-vector-21615540.jpg"
+    },
+    "permissions":["tabs"]
+}
